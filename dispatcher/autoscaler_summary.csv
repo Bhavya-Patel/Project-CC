@@ -1,0 +1,10 @@
+Metric,Value
+Average P99 Latency (s),0.2455
+Max P99 Latency (s),0.2459
+Min P99 Latency (s),0.2453
+Average Queue Size,4.95
+Max Queue Size,99.0
+Min Queue Size,0.0
+Average Replica Count,4.3
+Max Replica Count,5.0
+Min Replica Count,1.0
